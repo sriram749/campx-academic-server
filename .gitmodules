@@ -1,0 +1,3 @@
+[submodule "contracts"]
+	path = contracts
+	url = /Users/SRIRAM/test-campx/campx-contracts
